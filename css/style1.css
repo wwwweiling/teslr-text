@@ -1,0 +1,123 @@
+.navbar-brand{
+    background-image:url("../images/logo.svg") ;
+    width:120px;
+    background-repeat:no-repeat ;
+    background-position: right;
+
+
+}
+
+.page01{
+    background-image: url("../images/hero.jpg");
+    width:100%;
+    height:100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav+div{
+    margin-top: 60px;
+    color:white;
+    -webkit-text-stroke: 0.5px rgba(133, 122, 122, 0.5);
+}
+.col>p:last-child{
+    font-size: 0.5em;
+}
+.page01-bottom>div>div>div>p>img{
+    width: 40px;}
+.col>button{
+    color:antiquewhite;
+    font-size: 0.9em;
+    font-weight: bold;
+    background: none;
+    border-radius: 30px;
+    width:13rem;
+    height: 40px;
+    border:3px solid white;
+}
+
+.col>button:hover{
+    background-color: white;
+    color:black;
+}
+
+/* @media (mix-width:900px) {
+    .page01-bottom>div>div>div>p>img
+     {width: 25px;}
+     .col>p:last-child 
+     {font-size: 0.1rem;}
+    .fs-3 
+    {font-size: 15px; }
+} */
+
+td>h3{
+    border-top:2px solid black;
+    border-bottom:2px solid black;
+    padding: 10px 0;
+    letter-spacing: 2px;
+    white-space: nowrap;
+
+}
+.left{
+    border-bottom: 1px solid rgb(196, 196, 233);
+    line-height: 20px;
+}
+.left>td:first-child{
+    text-align: left;  
+}
+.right{
+    text-align:right;
+    padding-right: 15px;
+}
+
+.page03{
+    background-image: url(../images/back.jpg);
+    width:100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.page02{width:100%;}
+
+.page03-bottom{margin-top: 80vh;
+}
+
+.page04{
+    
+}
+
+.img3{
+    max-height: 70vh;
+
+}
+.button2{
+    border-radius: 100%;
+    background-color: white;
+    width:35px;
+    height:35px;
+    border:1px solid ;
+}
+.button3{
+    border-radius: 80px;
+    background-color: white;
+    width:100px;
+    height:35px;
+    border:1px solid ;
+
+}
+.button2:hover{
+    background-color:rgb(80, 77, 77);
+    color:white
+}
+.button3:hover{
+    background-color:rgb(80, 77, 77);
+    color:white
+}
+
+.footer1{
+    background-color: rgb(80, 77, 77);
+    color:white;
+    text-align: center;
+    font-size: 14px;
+    line-height: 25px;}
