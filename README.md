@@ -1,4 +1,5 @@
 # teslr-text
 bootstrap-text
+練習teslr網站，製作首頁
 
-use bootstrap4+aos.js
+使用前端框架bootstrap4+javascript套件動畫aos.js
