@@ -3,8 +3,8 @@ bootstrap-text
 練習teslr網站，製作首頁
 網址:
 https://wwwweiling.github.io/teslr-text/index.html
-使用前端框架bootstrap5+javascript套件動畫aos.js
 
+使用前端框架bootstrap5+javascript套件動畫aos.js
 上傳後 首頁滿版圖片失效，
 解決方法：
 
